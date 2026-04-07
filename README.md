@@ -29,7 +29,7 @@ Este projeto demonstra como criar uma API RESTful utilizando Fastify como framew
 - [Node.js](https://nodejs.org/)
 - [Fastify](https://www.fastify.io/)
 - [Prisma ORM](https://www.prisma.io/)
-- [TypeScript](https://www.typescriptlang.org/) (se aplicável)
+- [TypeScript](https://www.typescriptlang.org/)
 - [dotenv](https://github.com/motdotla/dotenv) para variáveis de ambiente
 
 ## Pré-requisitos

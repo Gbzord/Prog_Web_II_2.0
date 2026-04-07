@@ -1,6 +1,6 @@
 # Fastify-Prisma
 
-Um projeto de exemplo utilizando :
+Um projeto utilizando :
                                   [Fastify](https://www.fastify.io/) 
                                                   +
                                   [Prisma ORM](https://www.prisma.io/) 
